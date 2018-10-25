@@ -44,6 +44,13 @@ The following sections are references and resources for the course and attempt t
 * [Reddit](https://reddit.com)
 * [Piazza](https://piazza.com/)
 
+## Presentation Tools:
+* [Prezi](https://prezi.com/)
+* [LaTeX Beamer](https://www.overleaf.com/learn/latex/Beamer)
+* [Powerpoint](https://templates.office.com/en-gb/templates-for-PowerPoint)
+* [RMarkdown](https://rmarkdown.rstudio.com/lesson-11.html)
+* [Jupyter Slides](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
+
 ## Data Sources:
 * [Google dataset search](https://toolbox.google.com/datasetsearch)
 * [Microsoft open data](https://msropendata.com/)
