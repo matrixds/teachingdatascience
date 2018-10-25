@@ -1,4 +1,4 @@
-# Teaching Data Science
+# Teaching Data Science: A Short Course for Instructors
 This repository is a companion resource for the short course 'Teaching Data Science' by [MatrixDS](http://matrixds.com) The purpose of the course is to provide a meta-framework and considerations when building a curriculum. There is a growing body of tutorials and courses that cover data science, machine learning, and artificial intelligence. However, many of these courses are done without context or with tools that are difficult to apply after instruction. 
 
 For example, consider Andrew Ng's [Machine Learning course on Corsera](https://www.coursera.org/learn/machine-learning). This course is top-rated and very well done in nearly every respect. However, all of the exercises are done with Matlab / Octave; languages that do not enjoy significant popularity in the data science community. Students must refactor code and examples into another programming language after the course.  
