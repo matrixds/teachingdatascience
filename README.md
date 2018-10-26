@@ -65,6 +65,7 @@ The following sections are references for the course and attempt to provide a se
 * [Jupyter](http://jupyter.org/)
 * [Atom](https://atom.io/)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Anacdona Spyder](https://anaconda.org/anaconda/spyder)
 
 ### Cloud Tools
 * [RStudio Server](https://www.rstudio.com/products/rstudio/download-server/)
