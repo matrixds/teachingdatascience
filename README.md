@@ -5,7 +5,10 @@ For example, consider Andrew Ng's [Machine Learning course on Corsera](https://w
 
 The following sections are references for the course and attempt to provide a set of resources for professors, instructors, and teachers building courses that have a lasting impact on their students.
 
-## Example Course Agendas:
+## Academic Curriculum Development
+* [Data Science Academic Advisory Resources](https://github.com/brohrer/academic_advisory)  
+
+## Example Individual Course Agendas:
 ### On site traditional college
 * [Stanford Machine Learning (CS229)](http://cs229.stanford.edu/)
 * [Stanford Deep Learning (CS230)](http://cs230.stanford.edu/)
