@@ -61,7 +61,12 @@ The following sections are references for the course and attempt to provide a se
 * [kaggle data sets](https://www.kaggle.com/datasets)
 * [U.S. Government](https://data.gov) 
 
-## Data Science Environments:
+## Data Science Environments: 
+### Free Hosted Environments:  
+* [MatrixDS](http://matrixds.com) 
+* [Kaggle](https://kaggle.com)
+* [Google Colab](https://colab.research.google.com)  
+
 ### Local Install – text editors and IDEs
 * [Sublime](https://www.sublimetext.com/)
 * [RStudio](https://www.rstudio.com/products/rstudio-desktop/)
