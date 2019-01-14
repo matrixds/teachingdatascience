@@ -54,6 +54,9 @@ The following sections are references for the course and attempt to provide a se
 * [RMarkdown](https://rmarkdown.rstudio.com/lesson-11.html)
 * [Jupyter Slides](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
 
+## Assignments and Projects
+* [Some Ideas with Solutions](https://github.com/karan/Projects)
+
 ## Data Sources:
 * [Google dataset search](https://toolbox.google.com/datasetsearch)
 * [Microsoft open data](https://msropendata.com/)
