@@ -21,7 +21,7 @@ The following sections are references for the course and attempt to provide a se
 * [General Assembly](https://generalassemb.ly/education/data-science)
 * [Insight Data Science Fellowship](https://uploads-ssl.webflow.com/575a31d2ce5d01dc7a20de45/5bca5cdc8484864bf1324ab6_Insight_Data_Science_White_Paper_Jun2018.pdf)
 
-### On line
+### Online
 * [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
 * [MIT Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 * [Harvard Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
