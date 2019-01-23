@@ -56,6 +56,7 @@ The following sections are references for the course and attempt to provide a se
 
 ## Assignments and Projects
 * [Some Ideas with Solutions](https://github.com/karan/Projects)
+* [CMU Assignments with Solutions](http://www.cs.cmu.edu/~aarti/Class/10601/hws.shtml)
 
 ## Data Sources:
 * [Google dataset search](https://toolbox.google.com/datasetsearch)
