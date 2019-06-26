@@ -79,15 +79,15 @@ The following sections are references for the course and attempt to provide a se
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Anacdona Spyder](https://anaconda.org/anaconda/spyder)
 
-## Popular Student Texts
-* [Deep Learning Textbook](https://www.deeplearningbook.org/)
-* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-* [R for Data Science ](https://r4ds.had.co.nz/)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
 ### Cloud Tools
 * [RStudio Server](https://www.rstudio.com/products/rstudio/download-server/)
 * [Jupyterlab](http://jupyter.org/)
 * [Tableau (Dashboards and BI)](https://www.tableau.com/products/cloud-bi)
 * [Superset (Dashboards and BI)](https://superset.incubator.apache.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+## Popular Student Textbooks:
+* [Deep Learning Textbook](https://www.deeplearningbook.org/)
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [R for Data Science ](https://r4ds.had.co.nz/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
