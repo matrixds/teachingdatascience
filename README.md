@@ -22,15 +22,22 @@ The following sections are references for the course and attempt to provide a se
 * [Insight Data Science Fellowship](https://uploads-ssl.webflow.com/575a31d2ce5d01dc7a20de45/5bca5cdc8484864bf1324ab6_Insight_Data_Science_White_Paper_Jun2018.pdf)
 
 ### Online
-* [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+#### University
+* [Stanford Foundations of Data Science](https://online.stanford.edu/programs/foundations-data-science)
 * [MIT Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 * [Harvard Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
-* [Deeplearning.ai](https://www.deeplearning.ai/courses/)
-* [Machine Learning with Tensorflow by Google](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-* [Fast.ai](http://course.fast.ai/lessons/lessons.html)
+
+#### Corporation
 * [IBM Advanced Data Science](https://www.coursera.org/specializations/advanced-data-science-ibm)
+* [Machine Learning with Tensorflow by Google](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+* [Amazon Web Services Machine Learning Training](https://aws.amazon.com/training/learning-paths/machine-learning/)
+* [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+
+#### MOOC
+* [Fast.ai](http://course.fast.ai/lessons/lessons.html)
 * [Data Camp Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 * [Data Camp Introduction to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [Deeplearning.ai](https://www.deeplearning.ai/courses/)
 
 ## Lesson and Course Planning:
 * [Algonquin College](http://www.algonquincollege.com/profres/lesson-planning/)
