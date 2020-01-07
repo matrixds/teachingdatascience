@@ -80,6 +80,7 @@ The following sections are references for the course and attempt to provide a se
 
 ### Local Install – text editors and IDEs
 * [Sublime](https://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
 * [RStudio](https://www.rstudio.com/products/rstudio-desktop/)
 * [Jupyter](http://jupyter.org/)
 * [Atom](https://atom.io/)
