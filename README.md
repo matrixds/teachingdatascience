@@ -99,3 +99,4 @@ The following sections are references for the course and attempt to provide a se
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [R for Data Science ](https://r4ds.had.co.nz/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
