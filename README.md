@@ -50,6 +50,7 @@ The following sections are references for the course and attempt to provide a se
 * [coursera](https://coursera)  
 
 ## Communication Tools:
+* [Microsoft Teams](https://www.microsoft.com/en-us/education/products/teams)
 * [Slack](http://slack.com)
 * [Reddit](https://reddit.com)
 * [Piazza](https://piazza.com/)
