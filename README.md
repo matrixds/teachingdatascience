@@ -95,8 +95,14 @@ The following sections are references for the course and attempt to provide a se
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Popular Student Textbooks:
+### Machine Learning
 * [Deep Learning Textbook](https://www.deeplearningbook.org/)
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+### Books for R
 * [R for Data Science ](https://r4ds.had.co.nz/)
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+### Books for Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
