@@ -94,6 +94,7 @@ The following sections are references for the course and attempt to provide a se
 * [Tableau (Dashboards and BI)](https://www.tableau.com/products/cloud-bi)
 * [Superset (Dashboards and BI)](https://superset.incubator.apache.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Deepnote (free for Educational use)](https://deepnote.com/education)
 
 ## Popular Student Textbooks:
 ### Machine Learning
